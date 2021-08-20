@@ -28,13 +28,16 @@ Data sources used : <br>
 
 # Dashboards Implementations : 
 <h2>Static Data from MySQL Database</h2><br>
-![dashboard1](https://user-images.githubusercontent.com/42066122/130230222-8573d432-88d0-4336-893d-b9513f0cf6b1.png)<br>
+<img src="https://user-images.githubusercontent.com/42066122/130230222-8573d432-88d0-4336-893d-b9513f0cf6b1.png">
+
 ![datasourcecoursesviews](https://user-images.githubusercontent.com/42066122/130230259-2b66ef1e-15b4-4612-9672-2de8a666acbe.png)<br>
 
 <h2>Live Time Series Database</h2><br>
+<iframe>
 <video controls autoplay>
   <source src="https://user-images.githubusercontent.com/42066122/130230593-0064f134-f7ee-495a-ab6d-0e85f1fa6ed5.mp4" type="video/mp4">
 </video>
+</iframe>
 <br>
 Call Using AJAX : <br><br>
 ![livedatacall](https://user-images.githubusercontent.com/42066122/130230659-c18b50e7-f735-4087-a7fb-b3dc5ce81233.png)<br><br>
