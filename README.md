@@ -43,3 +43,11 @@ PHP code to insert Query in MySQL database : <br><br>
 <img src="https://user-images.githubusercontent.com/42066122/130230752-571d1161-f9f6-44b2-88fc-56eb1edc324e.png"><br><br>
 MySQL table structure of current traffic : <br><br>
 <img src="https://user-images.githubusercontent.com/42066122/130230705-37fbd8a1-9a17-46f4-991f-08320e6b6491.png"><br><br>
+
+<h2>Windows Monitoring System</h2>
+![Recorded_video_24](https://user-images.githubusercontent.com/42066122/130236710-e9a92d53-e196-416a-87fa-29a844066cd6.gif)
+<br><br>
+<img src="https://user-images.githubusercontent.com/42066122/130236901-972d4d2f-e1b1-4244-8219-8a5a003d870e.png">
+<br><br>
+<img src="https://user-images.githubusercontent.com/42066122/130236968-77721811-5f9c-43f1-82c8-200aac6267ba.png">
+<br><br>
