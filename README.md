@@ -51,3 +51,5 @@ MySQL table structure of current traffic : <br><br>
 <br><br>
 <img src="https://user-images.githubusercontent.com/42066122/130236968-77721811-5f9c-43f1-82c8-200aac6267ba.png">
 <br><br>
+<img src="https://user-images.githubusercontent.com/42066122/130237565-367c5513-9d06-45c7-8549-5b033e6d0b9a.png"><br><br>
+<img src="https://user-images.githubusercontent.com/42066122/130237607-9bfd6136-d46e-48f4-8051-a9f1e8a4161d.png"><br><br>
