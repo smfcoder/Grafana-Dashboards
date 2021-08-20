@@ -24,6 +24,7 @@ Data sources used : <br>
         c) Download Prometheus from (https://prometheus.io/download/)   and run the file as shown in the video.<br>
         d) Run the Windows node expoerter on http://localhost:9182/metrics<br>
         e) Run Prometheus on http://localhost:9090/target<br>
+        f) Import the json file of the dashboard from the above files or create the new panels.
         
 
 # Dashboards Implementations : 
