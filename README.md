@@ -32,11 +32,13 @@ Data sources used : <br>
 ![datasourcecoursesviews](https://user-images.githubusercontent.com/42066122/130230259-2b66ef1e-15b4-4612-9672-2de8a666acbe.png)<br>
 
 <h2>Live Time Series Database</h2><br>
-
-https://user-images.githubusercontent.com/42066122/130230593-0064f134-f7ee-495a-ab6d-0e85f1fa6ed5.mp4 <br>
-Call Using AJAX : <br>
-![livedatacall](https://user-images.githubusercontent.com/42066122/130230659-c18b50e7-f735-4087-a7fb-b3dc5ce81233.png)<br>
-PHP code to insert Query in MySQL database : <br>
-![image](https://user-images.githubusercontent.com/42066122/130230752-571d1161-f9f6-44b2-88fc-56eb1edc324e.png)<br>
-MySQL table structure of current traffic : <br>
+<video controls autoplay>
+  <source src="https://user-images.githubusercontent.com/42066122/130230593-0064f134-f7ee-495a-ab6d-0e85f1fa6ed5.mp4" type="video/mp4">
+</video>
+<br>
+Call Using AJAX : <br><br>
+![livedatacall](https://user-images.githubusercontent.com/42066122/130230659-c18b50e7-f735-4087-a7fb-b3dc5ce81233.png)<br><br>
+PHP code to insert Query in MySQL database : <br><br>
+![image](https://user-images.githubusercontent.com/42066122/130230752-571d1161-f9f6-44b2-88fc-56eb1edc324e.png)<br><br>
+MySQL table structure of current traffic : <br><br>
 ![datasource_currenttraffic](https://user-images.githubusercontent.com/42066122/130230705-37fbd8a1-9a17-46f4-991f-08320e6b6491.png)
